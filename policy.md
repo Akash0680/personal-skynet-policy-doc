@@ -1,4 +1,5 @@
-1. Simple Privacy Policy TemplateThis template is based on common open-source licenses and best practices for self-hosted apps. You must customize the bracketed sections ([ ]) and remove any sections that do not apply.Privacy Policy for n8n-personal-skynet-app Effective Date: December 4, 2025
+Privacy Policy for n8n-personal-skynet-app 
+Effective Date: December 4, 2025
 2. This Privacy Policy governs the manner in which the [n8n-personal-skynet-app application ("the Application" or "Service") collects, uses, maintains, and discloses information collected from users ("Users") of the Application.
 3. 1. Data ControllerThe Application is a self-hosted, private instance of the n8n software.
    2. Data Controller: Akash Singh Chauhan 
